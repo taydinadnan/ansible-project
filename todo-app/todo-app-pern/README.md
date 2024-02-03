@@ -1,4 +1,4 @@
-# Clarus Todos App Using PERN
+# Todos App Using PERN
 
 ## PERN : PostgreSQL - Express - ReactJS - NodeJS
 
